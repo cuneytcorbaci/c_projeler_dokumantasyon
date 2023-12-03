@@ -5,7 +5,7 @@ Merhaba bu repoda basitten sona karşılaştığım ve çözmüş olduğum sorul
 - **Soru1   :** Kullanıcıdan alınan isim ve soyisim bilgisini ekrana yazdıran programı yazın.
 - **Soru2   :** Klavyeden girilen 2 sayının toplamını veren programı yazın.
 - **Soru3   :** Klavyeden girilen 3 sayının aritmetik ortalamasını bulan programı yazın.
-- **Soru4   :** Girilen sayinin karesini alan programı yazınız.
+- **Soru4   :** Girilen sayinin karesini alan programı yazınız.a
 
 
 
